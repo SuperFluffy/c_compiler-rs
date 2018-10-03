@@ -1,0 +1,6 @@
+[package]
+name = "compiler"
+version = "0.1.0"
+authors = ["Richard Janis Goldschmidt <janis.beckert@gmail.com>"]
+
+[dependencies]
